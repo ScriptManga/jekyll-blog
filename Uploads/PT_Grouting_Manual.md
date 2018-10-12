@@ -19,7 +19,7 @@ La resistencia a tensión del concreto es sólo alrededor del 10% de su resisten
 
 resultado, los miembros planos de concreto son probablemente agrietados cuando se cargan. Con la finalidad de resistir los esfuerzos a tensión que el concreto plano no puede resistir, puede reforzarse con barras de refuerzo de acero. El refuerzo es seleccionado asumiendo que la zona en tensión del concreto no transporta ninguna carga y que los esfuerzos a tensión son resistidos solamente por las fuerzas a tensión en las barras de refuerzo. El miembro de concreto reforzado resultante puede agrietarse, pero puede transportar efectivamente las cargas de diseño (Figura 1-1).
 
-![](../../../../images/img-625f0387-85d3-41f3-9fb7-f251a367b2dc.jpg)
+![](../../../../images/img-42f2b7bc-4d63-444a-b808-d987b2b3e909.jpg)
 
 **Figura 1-1: Viga de concreto reforzado bajo carga.**
 
@@ -37,7 +37,7 @@ La Figura 1-2(c) muestra las dos vigas pretensadas luego que las cargas han sido
 
 tanto en la viga de simple-tramo como en la viga en voladizo deflexión hacia abajo, creando esfuerzo de tensión en la parte inferior de la viga de simple-tramo y en la parte superior de la viga en voladizo. El Diseñador del puente balancea los efectos de la carga y el pretensado de tal manera que la tensión desde la carga es compensada por la compresión inducida por el pretensado. La tensión se elimina bajo la combinación de ambas y las grietas a tensión son prevenidas. También, los materiales de construcción (concreto y acero) son usados de forma más eficiente; optimizando materiales, esfuerzos y costos de construcción.
 
-![](../../../../images/img-b292622d-7b0f-46cd-9b24-c217ff1def32.png)
+![](../../../../images/img-9cf46a98-defa-4435-aad0-67f9a73efbdd.png)
 
 **Figura 1-2: Comparación de vigas de concreto reforzado y pretensado.**
 
@@ -81,19 +81,19 @@ El post-tensionado longitudinal generalmente comprende tendones multi-torón sua
 
 perfil diseñado. En tramos continuos, el perfil del tendón descansa en la parte inferior de la sección en la región a la mitad del tramo y se levanta hacia a la parte superior de la sección en los soportes interiores. En tramos simples y en los extremos de expansión de los tramos continuos, los anclajes de post-tensionado son ensamblados verticalmente de modo que la resultante de la fuerza de anclaje del tendón pasa cerca del centroide de la sección. Un perfil drapeado de este tipo proporciona la distribución más efectiva de pretensado interno para este tipo de construcción.
 
-![](../../../../images/img-b713a8ef-22c0-4e57-8d07-76c2b8c34c93.jpg)
+![](../../../../images/img-2905f7fd-a9d2-4635-9896-9bdd701d72b0.jpg)
 
 **Figura 1-3: Hardware de anclaje de post-tensionado típico para tendones de torones.**
 
-![](../../../../images/img-e5ddb09b-8df8-4ff2-9577-f97ae14b0ca9.jpg)
+![](../../../../images/img-5ef0f8dc-65d1-422b-a5bc-bb3ca3dab865.jpg)
 
 **Figura 1-4: Hardware del sistema típico de barra post-tensionada (Courtesy of Dywidag Systems international).**
 
-![](../../../../images/img-1e696e5d-ce9b-4c3a-8eb3-68c207164282.png)
+![](../../../../images/img-ef030f49-e4f6-405d-9315-0b1470639a42.png)
 
 **Figura 1-5: Hardware del sistema típico de barra post-tensionada (Courtesy of Williams Form Engineering Corportation).**
 
-![](../../../../images/img-69ee77ff-10d9-4a2b-8466-558c06f8150c.jpg)
+![](../../../../images/img-04560319-e634-4ba0-9d5e-24f6454af0f9.jpg)
 
 **Figura 1-6: Construcción post-tensionada vaceada-en-sitio en California.**
 
@@ -111,7 +111,7 @@ Los tramos grandes pueden construirse usando técnicas similares. Una sección e
 
 de peralte variable sobre un pilar, puede empalmarse a una viga principal típica prefabricada en el tramo principal y en los vanos laterales. Un ejemplo es mostrado en la Figura 1-7\.
 
-![](../../../../images/img-069ed4f0-714b-4bfe-956f-fe58cad9d4a1.png)
+![](../../../../images/img-890e83aa-2b3a-405b-a5dd-ad28026a04c9.png)
 
 **Figura 1-7: Viga principal-I empalmada de sección variable de una unidad de tramo principal.**
 
@@ -123,7 +123,7 @@ La secuencia para erigir y soportar temporalmente este tipo de construcción de 
 
 la Figura 1-8\. Luego que todos los cierres hayan sido vaceados y hayan ganada la resistencia suficiente, los tendones longitudinales de post-tensionado son instalados y esforzados. Para maximizar la eficiencia del post-tensionado, el esforzado por etapas o fases es necesario. Algunos de los tendones longitudinales son esforzados sobre la sección de la viga principal-I sola (esto es, mientras no sea compuesta). Los tendones restantes son esforzados luego que la losa del tablero haya sida vaceada y actúe sobre la sección total compuesta.
 
-![](../../../../images/img-7af88d11-6302-4835-b7bd-62fb4c966414.png)
+![](../../../../images/img-61252f58-a40c-417b-8f0e-6a0e3cc7616e.png)
 
 **Figura 1-8: Secuencia de erección y soportes temporales para la viga principal-I empalmada.**
 
@@ -141,11 +141,11 @@ La construcción segmental prefabricada por voladizos balanceados involucra la e
 
 segmentos alrededor de un pilar de soporte. Cuando un segmento es elevado en posición, las caras contiguas emparejadas-vaceadas (match-cast) son revestidas con epóxico y las barras temporales de post-tensionado son instaladas y esforzadas para adjuntar el segmento al voladizo. Generalmente, después que un nuevo, segmento balanceado, es colocado sobre cada extremo del voladizo, los tendones de post-tensionado son instalados y esforzados desde un segmento sobre un extremo del voladizo hasta su contraparte en el otro extremo. En consecuencia, mientras los segmentos son agregados, más tendones en la parte superior del voladizo son agregados.
 
-![](../../../../images/img-a9baff74-3d8c-48fa-8fed-c683f52bcaeb.jpg)
+![](../../../../images/img-7cbc3af6-9eee-4bac-b04a-4a7e52f9bd83.jpg)
 
 **Figura 1-9: Construcción segmental vaceada-en-sitio usando encofrados móviles.**
 
-![](../../../../images/img-b9d4ed53-112b-46d3-8d31-7aaf794e51ea.jpg)
+![](../../../../images/img-746773ee-3b00-4fe8-af16-4d5fb54395d7.jpg)
 
 **Figura 1-10: Foothills Parkway, Tennessee.**
 
@@ -153,7 +153,7 @@ La Figura 1-11 muestra dos métodos típicos de colocación de los segmentos pre
 
 balanceados; usando grúas con torres de estabilidad en cada pilar y usando un gantry de lanzamiento por encima o superior. Cuando todos los segmentos han sido erigidos y los tendones esforzados, una junta de cierre se realiza a mitad del tramo. Los tendones de continuidad post-tensionados son instalados y esforzados a través del cierre para hacer los voladizos continuos.
 
-![](../../../../images/img-8dc6108d-791c-4b10-be9a-10996ed05ab6.png)
+![](../../../../images/img-7ff04133-154e-4a46-9433-e467bac6df78.png)
 
 **Figura 1-11: Construcción segmental prefabricada por voladizos balanceados.**
 
@@ -163,7 +163,7 @@ La Figura 1-12 ofrece una perspectiva mostrando varias características de un se
 
 en voladizo, la ubicación de los tendones y los anclajes. Estos se explicarán brevemente a continuación.
 
-![](../../../../images/img-09459df2-83d6-45d4-853b-13d66535b463.png)
+![](../../../../images/img-0b12e4c2-f2bd-41fa-8301-cad79f30c895.png)
 
 **Figura 1-12: Segmento típico en voladizos balanceados.**
 
@@ -179,7 +179,7 @@ Para completar un tramo, los extremos de dos voladizos adyacentes son conectados
 
 en-sitio (cat-in-place) en o cerca de la mitad del tramo o de los tramos interiores. En los tramos extremos o exteriores, la junta de cierre está generalmente más cerca de la junta de expansión del extremo. Cuando el cierre de concreto alcanza la suficiente resistencia, los tendones longitudinales de post-tensionado (de continuidad) son instalados, tensionados y “engrutados”. La Figura 1-13 representa las ubicaciones y disposiciones típicas para los tendones de continuidad en la parte inferior a mitad del tramo.
 
-![](../../../../images/img-3c963c06-3539-44ef-8ccb-88a5af60a5bb.png)
+![](../../../../images/img-755ea9f0-6ff4-476a-9051-293caed7e47b.png)
 
 **Figura 1-13: Tendones de continuidad en la parte inferior para la construcción por voladizos balanceados.**
 
@@ -197,11 +197,11 @@ Con la finalidad de alcanzar continuidad con el siguiente tramo, los tendones de
 
 los tendones del siguiente en la parte superior del segmento pilar. En los extremos de cada unidad continua, los extremos de los tendones se anclan en el diafragma del segmento junta de expansión con anclajes dispersos verticalmente y aproximadamente paralelos al alma del cajón.
 
-![](../../../../images/img-7094081e-aaef-4167-b404-c37cf19229bd.png)
+![](../../../../images/img-17076a01-e356-4fc2-ad16-7235da910258.png)
 
 **Figura 1-14: Construcción tramo-por-tramo.**
 
-![](../../../../images/img-c34ed4cf-1b64-4248-b71b-8ac7d39f75f6.png)
+![](../../../../images/img-12ee857e-dc09-445a-8511-c355743bf0b8.png)
 
 **Figura 1-15: Post-tensionado del tramo interior para la construcción tramo-por-tramo.**
 
@@ -223,7 +223,7 @@ Los tendones transversales post-tensionado usando torones y elementos de barras 
 
 un esquema efectivo de refuerzo para los Pilares Hammerhead (Figura 1-16). Esto es especialmente cierto para hammerheads grandes con voladizos significativos o donde el claro vertical restringe la profundidad disponible. Los tendones son internos al concreto y son esforzados y “engrutados” luego que el pilar de concreto ha alcanzado la resistencia suficiente.
 
-![](../../../../images/img-b970b0d3-6f1a-4d04-9969-e492840cbe42.png)
+![](../../../../images/img-d0ae395c-b546-4e56-b3e0-902f138ffe5f.png)
 
 **Figura 1-16: Post-tensionado en pilares hammerhead.**
 
@@ -241,7 +241,7 @@ Los tendones en los straddle bents son internos y “engrutados” durante la co
 
 posible aplicar tendones externos de una forma similar para reparar, o rehabilitar una estructura dañada.
 
-![](../../../../images/img-1c40fd4b-1cf3-4d7c-8438-bec9690090d5.png)
+![](../../../../images/img-1123d8f3-bce2-4fae-a1d0-c6c96eea8a8e.png)
 
 **Figura 1-17: Post-tensionado en straddle bents.**
 
@@ -259,7 +259,7 @@ Los tendones son internos, esforzados y “engrutados” durante la construcció
 
 pueden usarse para reparación o rehabilitación. La atención especial sería necesaria, sin embargo, para anclarlos y desarrollar fuerzas alrededor de la esquina superior y dentro de la zapata.
 
-![](../../../../images/img-60c328c2-b828-4764-b29c-004f39c1b7ea.png)
+![](../../../../images/img-d41f3b71-d4ab-47f3-ae5c-de3b75998383.png)
 
 **Figura 1-18: Post-tensionado en pilares en voladizo.**
 
@@ -269,13 +269,13 @@ Pilares segmentales de concreto de sección hueca, prefabricados han sido usados
 
 post-tensionado vertical generalmente consiste de barras PT para alturas cortas y moderadas, hasta alrededor de 12 metros (40 pies). Los tendones los torones generalmente son necesarios para los pilares más altos. Las barras son típicamente ancladas en zapatas y se extienden a los cabezales de los pilares. Los tendones los torones son generalmente continuos y se extienden desde un anclaje en el cabezal sobre un lado del pilar, por debajo del pilar, enlaza a través de la zapata y sube al lado opuesto hasta otro anclaje en el cabezal. Las barras post-tensionadas son también usadas para asegurar temporalmente los segmentos prefabricados y comprimen el epóxico en las juntas, así como son erigidas antes de instalar los tendones de torones permanentes. Los segmentos prefabricados huecos, de sección oval con una forma estética octogonal exterior con caras cóncavas, fueron usados para el Linn Cove Viaduct sobre el Blue Ridge Parkway en North Carolina (Figura 1-19).
 
-![](../../../../images/img-ccb0cd76-5c6b-4a34-912b-381f2947a1a6.jpg)
+![](../../../../images/img-7ef1fc11-ec94-42fe-912f-5a3ed29278fc.jpg)
 
 **Figura 1-19: Pilares segmentales prefabricados huecos, Linn Cove Viaduct, North Carolina.**
 
 Los pilares segmentales prefabricados con una sección-I fueron usados para el Mid-Bay Bridge en Florida. Los pilares más altos fueron post-tensionado con tendones de torones, enlazando en forma de bucle a través de la cimentación (Figura 1-20).
 
-![](../../../../images/img-a731334f-6aaf-4eed-b285-423cebd83061.png)
+![](../../../../images/img-f2fb5000-9890-45ea-aaf4-3619739bd93c.png)
 
 **Figura 1-20: Pilares-I prefabricados.**
 
@@ -285,7 +285,7 @@ Los segmentos prefabricados de concreto de sección tipo cajón hueco fueron usa
 
 arcos principales del Natchez Trace Parkway Bridge en Tennessee (Figura 1-21). Estos fueron erigidos usando cables temporales atirantados a la columna central del pilar, que a su vez fueron balanceados anclando tie-backs (amarre posterior) en las laderas adyacentes. Las barras de post-tensionado temporal fueron usadas para asegurar cada nuevo segmento a aquel erigido previamente para comprimir la junta epóxica.
 
-![](../../../../images/img-5bb95fa4-e70b-4f59-9c1f-15e3c6671bf7.jpg)
+![](../../../../images/img-65b4b48d-272f-470d-b375-4fda7389643a.jpg)
 
 **Figura 1-21: Arcos del Natchez Trace Parkwa, Tennessee.**
 
@@ -307,7 +307,7 @@ Dependiendo del tamaño del segmento, puede haber de cuatro a ocho barras tempor
 
 alrededor de la sección transversal. En la mayoría de los puentes prefabricados en voladizo, hay al menos una barra PT temporal en un ducto en el ala de concreto del segmento. En algunos puentes, las barras PT temporales se anclan en bloques en la parte inferior de la losa superior y sobre la parte superior de la losa inferior. Alternativamente, las barras pueden instalarse en ductos dentro de las losas superior e inferior, y ancladas en bloqueadores (blockouts) en las juntas de los segmentos (Figura 1-22).
 
-![](../../../../images/img-e3c25854-7b03-43ab-b4e1-663983edd166.png)
+![](../../../../images/img-04eafcbe-dd84-4692-8bb0-a067559a9fbd.png)
 
 **Figura 1-22: Barras PT temporales para la erección de los segmentos.**
 
@@ -510,7 +510,7 @@ Para los grouts tixotrópicos, el cono de flujo (flow cone) es rellenado hasta l
 
 nivel estándar, y el tiempo de llenado a un contenedor de un litro es medido. El tiempo de eflujo deberá estar entre 5 y 30 segundos inmediatamente después del mezclado. Luego permitiendo al grout descansar por 30 minutos sin agitación y entonces re-mezclándolo por 30 segundos, el tiempo de eflujo deberá ser menor que 30 segundos. Es recomendable que algunas de las pruebas de calificación de laboratorio puedan ejecutarse en los extremos de este espectro. Hay algunos pre-embolsados comerciales grouts tixotrópicos que reúnen todos los otros requerimientos aún mostrados, sin embargo muestran muy baja viscosidad (alta fluidez) luego de la agitación, resultando en el límite inferior de 5 segundos (referirse a la revisión del 2003 del PTI “Specification for Grouting of Post-Tensioned Structures”).
 
-![](../../../../images/img-6070132b-6c63-4158-a3f5-d59f733c73c1.png)
+![](../../../../images/img-e5e92351-511e-45c2-adc8-b5ab65ae189f.png)
 
 **Figura 2-1: Prueba del cono de flujo ASTM C939 estándar y modificado.**
 
@@ -535,7 +535,7 @@ La “Prueba de Sangrado Inducida por Mecha” (Wick Induced Bleed Test) implica
 
 una longitud de 0.5 metros (20 plg) de torón en un cilindro de grout preparado cuidadosamente y siguiendo una versión modificada del ASTM C940 para registrar el sangrado o exudación del agua sobre el grout. Un sangrado de 0.0% luego de 3 horas a una temperatura del cuarto normal (70º F) es aceptable (Figura 2-2).
 
-![](../../../../images/img-c3fc2d30-945b-427b-a5cb-d3921ea2a8ce.png)
+![](../../../../images/img-48a18bf2-d29e-41d6-b37a-420d15660106.png)
 
 **Figura 2-2: Prueba de sangrado inducido por mecha.**
 
@@ -543,11 +543,11 @@ La “Prueba de Sangrado de Presión Schupack” (Schupack Pressure Bleed Test) 
 
 retener las partículas del grout y registrar el agua de sangrado expulsado bajo presión de aire aplicada hasta 0.34 MPa (50 psi), ver Figura 2-3\. La Tabla 2-1 muestra porcentajes de agua de sangrado máximos permisibles en valores de presión específicos que deberán indicar que el grout tiene pequeño o ningún sangrado para el aumento vertical dado.
 
-![](../../../../images/img-afc31051-bfca-4ed0-a366-110c99d03715.jpg)
+![](../../../../images/img-f21c97f8-41c0-49a9-8046-19209cc6ed93.jpg)
 
 **Tabla 2-1: Sangrado permisible bajo presión**
 
-![](../../../../images/img-cf0daff4-0b7a-4482-95f4-24164712cfa2.png)
+![](../../../../images/img-4ff5bd4f-c408-4cc0-b153-1da90dcff266.png)
 
 **Figura 2-3: Sangrado bajo prueba de presión (embudo de filtración de Gelman).**
 
@@ -651,7 +651,7 @@ espesor de pared de 0.45 mm (gauge 26) para los ductos menores que 66 mm (2-5/8 
 
 Los tubos de acero lisos deberán estar conformes con el ASTM A53 “Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc Coated, Welded and Seamless”, Grado B Schedule 40\. Cuando son requeridos para alineamientos curvos del tendon (ejemplo, desviaciones tipo silla de montar o sillín y similares) el tubo deberá ser prefabricado al radio requerido (Figura 2-4(b)).
 
-![](../../../../images/img-ef4bcd56-94f2-4193-90f5-155e68278f02.png)
+![](../../../../images/img-6b6b6f83-aa17-4d75-8e31-07066f16b6b5.png)
 
 **Figura 2-4: Ducto de acero de enrollado en espiral y tubo de acero rígido.**
 
@@ -661,7 +661,7 @@ El ducto de plástico corrugado (Figura 2-5) a ser completamente embebido en el 
 
 construirse ya sea de polietileno o de polipropileno. El radio de curvatura mínimo aceptable deberá ser establecido por el proveedor del ducto de acuerdo a los métodos de pruebas estándar. El ducto de polietileno deberá fabricarse de resinas que reúnan o excédanlos requerimientos del ASTM D3350 con una clasificación celular de 344434C. El ducto de polipropileno deberá ser fabricado de resinas que reúnan o excédanlos requerimientos del ASTM D4101 con un rango de clasificación celular de PP0340B44544 a PP0340B65884\. El ducto deberá tener un espesor mínimo de material de 2.0 mm ± 0.25 mm (0.079 plg ± 0.010 plg. Los ductos deberán tener un revestimiento blanco en el exterior o deberán ser de un material blanco con estabilizadores ultravioleta añadidos.
 
-![](../../../../images/img-3ab05b0f-5acd-4314-be2f-51e0c801985c.png)
+![](../../../../images/img-d390d0ca-74e7-4191-9901-b3b310640951.png)
 
 **Figura 2-5: Ducto de plástico corrugado.**
 
@@ -709,7 +709,7 @@ Las fundas retráctiles deberán consistir de un irradiado y vinculado transvers
 
 densidad respaldado con una capa de adhesivo que resista 66ºC (150 ºF). Los materiales de las fundas deberán reunir lo siguiente:
 
-![](../../../../images/img-c4bb60b6-3e87-4e77-9fc5-4504981bc70f.jpg)
+![](../../../../images/img-0b5f9624-047b-4923-acb4-2a451036c737.jpg)
 
 **Tabla 2-2: Propiedades físicas requeridas para las fundas reducidoras.**
 
@@ -792,7 +792,7 @@ Una placa de apoyo básica es una placa plana apoyada directamente contra el con
 
 definición son las placas cuadradas, rectangulares o redondas; cortadas o cortadas con soplete de la placa de acero fácilmente disponible, normalmente el ASTM A 36\. Las placas de asiento o apoyo básicas son usadas en conjunto con láminas de metal galvanizado o trompetas (trumpets) de plástico de transición desde el espacio del torón en la placa de la cuña hasta el ducto (Figura 2-6).
 
-![](../../../../images/img-d9c4fe8d-6c48-4f7f-8316-bbae01d24c2b.jpg)
+![](../../../../images/img-75610649-ecde-4cef-8bc9-40b9977821f0.jpg)
 
 **Figura 2-6: Placa de anclaje básica.**
 
@@ -804,7 +804,7 @@ Una placa de apoyo especial o dispositivo de anclaje es cualquier accesorio de a
 
 del tendón en el concreto pero no reúne los requerimientos de diseño normales analíticos para las placas de apoyo básicas. Cubiertos por esta definición son dispositivos que tienen superficies de apoyo planas simples o múltiples, y los dispositivos que combinan placas de apoyo y de cuña en una sola pieza. Estos anclajes requieren típicamente refuerzo de confinamiento y deberá aceptarse en las bases de pruebas físicas (Figura 2-7).
 
-![](../../../../images/img-443dc5e7-b2eb-41c5-93a9-61d53f004daa.jpg)
+![](../../../../images/img-fde6526b-e924-493b-b086-8b06a63a4016.jpg)
 
 **Figura 2-7: Anclaje multi-plano.**
 
@@ -860,11 +860,11 @@ Los inlets y outlets deberán ensamblarse y anexarse a los ductos, anclajes y ca
 
 manera que permita escapar a todo el aire y agua con la finalidad de asegurar que el sistema esté completamente relleno con grout. Ver el capítulo 4 para ejemplos de localización de los inlets y outlets.
 
-![](../../../../images/img-6bfe6308-ad14-4383-9f55-c486cc8f3e84.png)
+![](../../../../images/img-fbf3cb5a-f9f9-43c9-9f86-25ba53add99f.png)
 
 **Figura 2-8: Placa de anclaje de la barra PT.**
 
-![](../../../../images/img-759c4d15-1b3b-4f12-80b5-fcdef6d3ce86.png)
+![](../../../../images/img-579fc62e-1329-47d9-b8ff-ef8ebd4e3529.png)
 
 **Figura 2-9: Cabezal permanente (plástico) del grout para anclaje.**
 
@@ -964,7 +964,7 @@ Las responsabilidades típicas asociadas con los planos de ejecución incluyen:
 
 Un típico envío de los planos de ejecución, revisión y proceso de aprobación para un proyecto de Diseño-Oferta-Construcción (Design-Bid-Build) es ilustrado en la Figura 3-1\. Esto sería diferente para un proyecto Diseño-Construcción (Design-Build).
 
-![](../../../../images/img-b73aaee9-6871-4631-94b0-fbe4d01adca1.png)
+![](../../../../images/img-84a0ced3-1f5b-46e5-b7ba-5559c7abe753.png)
 
 **Figura 3-1: Típico proceso de aprobación de los planos de ejecución para el post-tensionado.**
 
@@ -1015,7 +1015,7 @@ determina con la fórmula:
 
 La elongación total se obtiene sumando los incrementos de elongación por cada porción del
 
-tendón, basado en el promedio de la fuerza al inicio y al final de aquella porción: Elongación ![](../../../../images/img-01f2f16d-0606-430b-a612-a8d80bd10569.png)(   ), donde es igual al promedio de la fuerza sobre .
+tendón, basado en el promedio de la fuerza al inicio y al final de aquella porción: Elongación ![](../../../../images/img-b96e89e5-27e5-4daa-9b6e-a4c3fa085c66.png)(   ), donde es igual al promedio de la fuerza sobre .
 
 La información a ser remitida al ingeniero de sitio o inspector deberá incluir:
 
@@ -1044,7 +1044,7 @@ El cálculo se realiza considerando cada arco del perfil a su vez y aplicando la
 
 para determinar la fuerza al inicio y al final de cada porción, comenzando en el jack. Por conveniencia, el cálculo se realiza usando una hoja de cálculo (Tablas 3-1 y 3-2 al final de este capítulo). También, por claridad, este ejemplo es mostrado en unidades acostumbradas en los Estados Unidos en este momento.
 
-![](../../../../images/img-c8f33560-a618-4087-851f-a854d9b27e17.jpg)
+![](../../../../images/img-477e5d03-36d2-4b50-917b-fca44e6a84e5.jpg)
 
 **Figura 3-2: Perfil del tendón en la viga principal-I de cuatro tramos.**
 
@@ -1056,7 +1056,7 @@ La segunda etapa del esforzado es desarrollada desde el extremo B. En consecuenc
 
 necesario calcular la elongación anticipada (adicional) y la fuerza final en el extremo B. Luego del esforzado desde el extremo A, la fuerza en el tendón en el extremo B se calcula que es 169.1 kips (Tabla 3-1). Por tanto, cuando se “gatea” en el extremo B, el jack no empezará a moverse hasta que la carga exceda esta cantidad. El jack en B recogerá la carga en 169 kips y continuará hasta la fuerza de gateo requerida de 308.0 kips. Sin embargo, debido a la pérdida por fricción y tambaleo, el efecto del gateo en B recorrerá sólo tan lejos alrededor del puente hasta que alcance un punto donde la fuerza sea igual a aquel del gateo en el extremo A. En este caso, ya que el puente es simétrico, esto ocurre en el pilar al medio. Consecuentemente, la elongación adicional en el extremo B vendrá sólo del incremento en la fuerza del tendón entre el extremo B y el pilar del medio. Esta elongación se calcula en la Tabla 3-2 y es 6.36 plg.
 
-![](../../../../images/img-a4b0e6d6-e85f-4f95-a618-5a8eb0cad264.png)
+![](../../../../images/img-a84e0470-5cbc-42d6-8b08-66004335fc32.png)
 
 **Figura 3-3: Fuerza del tendón calculada después de las pérdidas.**
 
@@ -1112,7 +1112,7 @@ La fricción entre el tendón y el ducto pueden sólo ocurrir en desviadores y e
 
 del ducto en los diafragmas de los pilares o segmentos junta de expansión donde la ruta del tendón (tendon path) se curva al anclaje. En este ejemplo, hay una curva en el extremo muerto solamente y ninguno en el extremo esforzado. La fricción de la curvatura, , se aplica en los desviadores (deviators) y en el diafragma externo muerto (dead end diaphragm). No hay pérdidas debido al tambaleo en los tendones externos, de modo que _k_ = cero.
 
-![](../../../../images/img-bca73e83-85d8-4162-a9b8-f05a4fe7ccdf.png)
+![](../../../../images/img-0edb4cb1-f1e6-44af-830a-95d413863113.png)
 
 **Figura 3-4: Tendón desviado externo en el tramo final.**
 
@@ -1130,7 +1130,7 @@ El efecto del wedge-set no es tan fácil determinarlo como para un tendón inter
 
 En este ejemplo se encuentra que la fuerza en AB se reduce significativamente desde 835 hasta 761 kips. Se deduce que la fuerza en la porción CD debe ser mayor que aquella en AB peor no puede ser más que aquella debido a la pérdida de fricción a través del desviador BC. Por tanto la fuerza en CD tendría que ser 761 + (835 – 819) = 775 kips. Pero, ya que la fuerza de gateo original en CD de 819 kips es mayor que 775, se deduce que el desviador BC solo no puede absorber toda la pérdida debido al wedge-set. Por tanto el wedge-set debe también afectar la porción CD.
 
-![](../../../../images/img-5b32af57-187b-411c-8247-c2ab971fdd8b.png)
+![](../../../../images/img-7f64fb28-a65a-406c-8fc4-79ec021bb91a.png)
 
 **Figura 3-5: Fuerza del tendón exterior luego de la fricción y del wedge-set.**
 
@@ -1214,7 +1214,7 @@ Un déficit significativo en la elongación es indicativo de alineamientos del d
 
 obstrucciones. La causa más probable deberá examinarse y tomarse las medidas correctivas apropiadas.
 
-![](../../../../images/img-3023f1c7-b5ef-4dca-b053-c91838fbacab.png)
+![](../../../../images/img-91b65a88-d4e5-4ac3-83bb-154ddc571670.png)
 
 **Figura 3-6: Prueba de fricción en el sitio.**
 
@@ -1233,7 +1233,7 @@ tendón de un paquete de torones es ilustrado en la Figura 3-7, el cual puede us
 *   Para proyectos pequeños aproximadamente con menos de 45 toneladas (100000 libras) de PT: ningún banco de pruebas, disponer que los torones sean del mismo proveedor con copias de certificado de comprobación del módulo del muestreo y pruebas de producción.
 *   Para proyectos grandes, uno por cada 45 toneladas (100000 libras) de PT: una prueba si es del mismo proveedor o una prueba por cada proveedor.
 
-![](../../../../images/img-e8e9f495-fe6b-4b1f-a3b7-4141dd958cc2.png)
+![](../../../../images/img-2f8e03f7-114c-4009-8d94-02f34dcec7d1.png)
 
 **Figura 3-7: Banco de pruebas en sitio para el módulo de elasticidad.**
 
@@ -1253,11 +1253,11 @@ Los anclajes multi-plano (Figura 3-9) inducen esfuerzos locales de apoyo más gr
 
 límite permitido para las placas estándar (placa de apoyo básica). Por lo tanto, los anclajes multi-plano necesitan refuerzo especial para el confinamiento de la zona de anclaje local. Este es normalmente suministrado por el fabricante del anclaje – generalmente en la forma de un espiral (no mostrado).
 
-![](../../../../images/img-15fb4b7d-2599-491b-ae9b-3ddd0c5c3b07.jpg)
+![](../../../../images/img-0f883179-ee6b-4d5e-992a-091e3a0026be.jpg)
 
 **Figura 3-8: Placa de apoyo de anclaje básico.**
 
-![](../../../../images/img-8670f75c-ac47-4596-b154-c60bece0c657.jpg)
+![](../../../../images/img-e9152316-3bbf-42ff-9538-068252ef6cef.jpg)
 
 **Figura 3-9: Anclaje multi-plano.**
 
@@ -1277,11 +1277,11 @@ Con respecto al tipo de anclaje, es esencial proporcionar refuerzo en la zona de
 
 esta es la región directamente detrás de la placa(s) de apoyo de anclaje. Para los tendones de torón longitudinales, mayormente, esto generalmente comprende un espiral (Figura 3-11). Los enlaces tipo grilla o rectangulares pueden usarse en lugar de o para suplementar el refuerzo en espiral. El refuerzo de la zona local deberá colocarse tan cerca como sea posible (esto es, 12 mm (1/2 plg) máximo) a la placa de anclaje principal en todas las aplicaciones.
 
-![](../../../../images/img-a3620e09-fe55-4552-8ded-57e5945ae5be.jpg)
+![](../../../../images/img-2f752bd2-3704-4087-930c-67d8b5c45250.jpg)
 
 **Figura 3-10: Placa de anclaje para la barra-PT.**
 
-![](../../../../images/img-4561bca3-c020-4dc8-9da2-0302664b8aa6.jpg)
+![](../../../../images/img-1b353ae4-f557-4f90-ae9d-0d63a1012956.jpg)
 
 **Figura 3-11: Zonas de anclaje local y general en el extremo de una viga principal-I.**
 
@@ -1297,7 +1297,7 @@ Se ha encontrado que este arreglo es muy efectivo para interceptar grietas poten
 
 podrían originarse en la esquina superior o inferior de la placa de apoyo de anclaje y recorren diagonalmente a través de la superficie adyacente – aparte del esfuerzo clásico de corte a lo largo de la línea del tendón mismo.
 
-![](../../../../images/img-2fe959eb-af85-494d-b6cd-945053c73b34.jpg)
+![](../../../../images/img-e1c66c40-4746-409c-9867-c72116503761.jpg)
 
 **Figura 3-12: Refuerzo de la zona local para el anclaje de borde en losas delgadas.**
 
@@ -1323,7 +1323,7 @@ Las recomendaciones generales para la fabricación son que los ductos deberán e
 *   El tamaño máximo permitido del agregado deberá estar especificado.
 *   La distancia entre el exterior del ducto y el lado del alma deberá ser el adecuado para acomodar el refuerzo vertical y el recubrimiento especificado y proporcionar la sección mínima de concreto para satisfacer los requerimientos de diseño.
 
-![](../../../../images/img-c63aaac1-286b-48d8-971b-648ccab8c882.png)
+![](../../../../images/img-1490eed7-4cc2-4a17-bb5b-b1d9e6ea656b.png)
 
 **Figura 3-13: Espaciamiento del ducto y espacio libre en vigas principales prefabricadas post-tensionadas.**
 
@@ -1341,7 +1341,7 @@ Además de las recomendaciones generales anteriores los ductos deberán estar:
 *   Cuando se instalan tubos HDPE para conectar con desviadores y tubos diafragma, la instalación deberá revisarse para asegurar que los tendones correctos estén conectados.
 *   Las juntas entre los segmentos emparejados-vaceados deberán ser apropiadamente preparados y sellados con epóxico necesariamente en concordancia a los requerimientos contractuales específicos del proyecto.
 
-![](../../../../images/img-93e9e3c4-6b49-4d4a-b229-9bf13b55d111.png)
+![](../../../../images/img-49872dca-6465-4a9f-a6f6-568ec79c87db.png)
 
 **Figura 3-14: Comprobación de los alineamientos de los ductos longitudinal y transversal.**
 
@@ -1371,11 +1371,11 @@ El recubrimiento es una parte esencial de la protección de corrosión. El recub
 
 comprobarse para el refuerzo y los ductos de post-tensionado longitudinal y transversal.
 
-![](../../../../images/img-697f138a-dfd2-48f8-b238-e9a9ca74da08.png)
+![](../../../../images/img-886b8ba3-ac81-4c06-bbdb-213c852e9339.png)
 
 **Figura 3-15: Rebajo de anclaje y comprobación de la alineación del ducto.**
 
-![](../../../../images/img-e9d9528b-bff5-4935-bb19-ce0369bc19b9.jpg)
+![](../../../../images/img-559dbdd1-f90e-4cde-8de3-ce7805f566aa.jpg)
 
 **Figura 3-16: Conexiones inaceptables del ducto y errores.**
 
@@ -1390,11 +1390,11 @@ desplazamiento o desconexión, los soportes deberán proporcionarse en intervalo
 *   Los soportes deberán estar en intervalos de más de 0.6 a 1.0 m (2 a 3 pies), o por recomendaciones del proveedor del ducto.
 *   El recubrimiento mínimo y espacios libres deberán mantenerse.
 
-![](../../../../images/img-f140d828-aabe-4dae-96da-e0063b73ac52.png)
+![](../../../../images/img-3315687b-e1cf-45be-b5e1-89c0a5a5aac2.png)
 
 **Figura 3-17: Soportes de ducto en vigas principales-I prefabricadas post-tensionadas.**
 
-![](../../../../images/img-866fe84f-f426-4ba8-991a-5327f7281f4c.jpg)
+![](../../../../images/img-b0c38931-166b-4a49-85a5-44e48b32447c.jpg)
 
 **Figura 3-18: Un posible resultado de un ducto pobremente soportado y conectado.**
 
@@ -1440,7 +1440,7 @@ En los puntos elevados u otras ubicaciones, donde se sospeche que los agujeros d
 
 podrían acumularse y requieran de llenado secundario asistido por grouting al vacío, conexiones y válvulas adecuadas deberán ser proporcionadas (Figura 3-19).
 
-![](../../../../images/img-7dda6468-3609-4e68-a6b4-47a34cb906a8.png)
+![](../../../../images/img-28fe0471-4184-4046-b304-c0ceebd91088.png)
 
 **Figura 3-19: Conexiones para operaciones secundarias, grouting al vacío (inyección al vacío).**
 
@@ -1460,11 +1460,11 @@ La presión del concreto mismo es fácilmente resistida por ductos circulares. L
 
 tipo “plano oval” son rigidizados por nervios corrugados para prevenir el aplastamiento de la presión estática o dinámica del concreto húmedo. Colocar un ducto plano oval verticalmente en un alma ha resultado en deformaciones locales de la pared del ducto, de la colocación y refuerzo del concreto, causando dificultades con los tendones instalados y cangrejeras locales (Figura 3-22). Es recomendable que los ductos circulares se usen en las almas y que suficiente espacio se proporcione para que el concreto fluya entre los ductos.
 
-![](../../../../images/img-4256f151-b4b8-445a-a78c-ec9a8617df92.png)
+![](../../../../images/img-c59bffa4-b825-4aee-bbe1-01858390fc06.png)
 
 **Figura 3-20: Tambaleo excesivo involuntario.**
 
-![](../../../../images/img-f43f48f2-3cd5-4185-bf41-280efca0adfd.png)
+![](../../../../images/img-09825c6d-0c60-4108-9e21-99b14d8edc2a.png)
 
 **Figura 3-21: Tambaleo excesivo involuntario.**
 
@@ -1474,11 +1474,11 @@ La descarga y colocación del concreto puede fácilmente desplazar indebidamente
 
 asegurados. Los ductos deberán estar asegurados de forma apropiada y tomarse precauciones cuando se coloque el concreto. La Figura 3-23 muestra un caso donde el concreto fue colocado por debajo de las almas y permitiendo el flujo a través de la losa inferior de un segmento, donde los ductos no fueron bien atados. El concreto desplazó los ductos hacia un lado y condujeron a dificultades significantes con la instalación del tendón. Muchos soportes de los ductos, en este caso entre el refuerzo superior e inferior de la losa inferior, y un cambio en la secuencia de descarga y colocación solucionará este problema.
 
-![](../../../../images/img-20156a23-3634-455c-b115-04a3778f9e01.png)
+![](../../../../images/img-70d58e55-36c3-40dd-a1e4-3ec6867ce2f4.png)
 
 **Figura 3-22: Tamaño del ducto en vigas principales post-tensionadas.**
 
-![](../../../../images/img-c306ec44-2e7e-4fdb-b89a-0b9c60d2d480.png)
+![](../../../../images/img-312169db-7b09-4adc-a049-7e6ba5e89f2a.png)
 
 **Figura 3-23: Colocación de concreto en los segmentos tipo cajón.**
 
@@ -1490,7 +1490,7 @@ componentes prefabricados tales como pilotes y vigas principales-I. Los vibrador
 
 Los vibradores pueden desplazar los ductos cuando no están correctamente asegurados. También, el uso agresivo o inapropiado de los vibradores internos puede conducir a deformaciones locales del ducto o daño. Se debe tener cuidado. Colocar el concreto en elevadores relativamente pequeños de sólo dos o tres pies y permitir vibradores internos sólo para penetrar lo suficiente para consolidar los elevadores. Tener cuidado en no tener un vibrador permanentemente alojado en la celda de refuerzo (Figura 3-24).
 
-![](../../../../images/img-db6cfd72-b713-45fa-956b-fad3c5e2728a.png)
+![](../../../../images/img-552fde01-b03a-47fc-9b55-0bca26ec60d1.png)
 
 **Figura 3-24: Uso de los vibradores internos para consolidar el concreto.**
 
@@ -1554,7 +1554,7 @@ Para entornos agresivos, cuando los ductos pueden estar contaminados con cloruro
 
 requerir enjuague entes de instalar los tendones. Sólo agua limpia deberá usarse para el enjuague. Los ductos deberán ser bien drenados. Toda el agua deberá removerse antes del grouting. Si es necesario, el agua de enjuague debe soplarse fuera de los ductos antes de instalar los tendones, usando aire comprimido seco libre de grasas.
 
-![](../../../../images/img-8257f829-896f-4c88-86d7-e4f35a0f79a9.jpg)
+![](../../../../images/img-b8f06d1a-d87b-4456-9fe1-69d88a190edb.jpg)
 
 **Figura 3-25: Calcetín de alambre de acero para instalar tendones multi-torón.**
 
@@ -1586,7 +1586,7 @@ Los jacks para esforzar torones simples (mono) generalmente tienen dos cilindros
 
 lado del torón, con un dispositivo de cuña para atrapar y jalar el torón (Figura 3-26).
 
-![](../../../../images/img-cd2e2b34-5d09-4d32-87c6-596201834c2f.jpg)
+![](../../../../images/img-e46eff31-714a-4050-aec2-30c7557b7775.jpg)
 
 **Figura 3-26: Jack monotorón (Cortesía de VSL Corporation).**
 
@@ -1608,7 +1608,7 @@ Los jacks de pretensado deben ser muy precisos – lo que es difícil de alcanza
 
 esforzado tienen más superficie de desgaste y de empaque que un jack convencional de la misma capacidad. Esto, la necesidad de una jack de carrera larga, aumenta el potencial para las variaciones en la precisión de la fuerza aplicada. Otros factores que afectan la precisión y eficiencia de los jacks de esforzado son: el uso de aceite sucio, exposición del sistema al polvo y arena, carga excéntrica, tipo de empaque, posición del ram (espolón), temperatura del aceite, válvulas hidráulicas, mantenimiento del ram y del empaque, y equipo de lectura.
 
-![](../../../../images/img-b1bc14bb-57f4-49ec-9995-2ccec4125aaf.png)
+![](../../../../images/img-231b358b-a54c-45d7-a1cc-99c92d733bb7.png)
 
 **Figura 3-27: Típico jack de esforzado multi-torón, de agujero central.**
 
@@ -1630,7 +1630,7 @@ Los jacks de barra tienen un agujero central a través del cual la barra pasa y 
 
 tuerca en el lado posterior del jack (Figura 3-28). La mayoría de los jacks tienen una nariz ampliada para acomodar un acoplador de barra.
 
-![](../../../../images/img-9bb4493b-b613-4b92-b22c-a2c87d877de2.png)
+![](../../../../images/img-cfbb28c6-bae8-42c9-aa6c-3ea1a0449973.png)
 
 **Figura 3-28: Jack de barra pretensada.**
 
@@ -1656,7 +1656,7 @@ Con el uso, un sistema jack y dial puede desviarse de la calibración. Así, en 
 
 una célula de carga de calibración se mantiene normalmente en el sitio y el jack y el dial son revisados periódicamente. En proyectos pequeños, el sistema jack y dial deberá calibrarse inmediatamente antes del uso. Esto lo hace a menudo el proveedor del sistema o un laboratorio local aprobado.
 
-![](../../../../images/img-330dcb82-917e-4f3e-b1ae-15f0ef0373b2.png)
+![](../../../../images/img-03b43fde-c817-485e-aac9-9a75ad8a017e.png)
 
 **Figura 3-29: Calibración del jack.**
 
@@ -1684,7 +1684,7 @@ Una curva de calibración relaciona la presión registrada por el dial propio de
 
 enviada por el jack (Figura 3-30). La curva está establecida por el proceso de calibración mencionado líneas arriba. Puede encontrarse para el dial del jack y el dial maestro. El jack y el dial deben permanecer juntos como una unidad en todo momento mientras se usa con la finalidad de evitar resultados confusos e incorrectos. Periódicamente durante el uso, el jack y el dial deberán comprobarse insertando el dial maestro. La variación significativa desde la curva de calibración sería razón para examinar el sistema del jack.
 
-![](../../../../images/img-d663688b-4a45-4e36-b8ba-754ae295398e.png)
+![](../../../../images/img-c829803a-d55c-49d4-9777-f092761cb60d.png)
 
 **Figura 3-30: Gráfico de calibración para el dial de presión y fuerza del jack.**
 
@@ -1748,7 +1748,7 @@ La ubicación del jack es cambiada desde un extremo de la estructura al otro de 
 
 número igual de tendones son esforzados en cada extremo (Figura 3-31). Si el esforzado inicia con T1 en el lado este de la estructura, los tendones T2 y T3 son esforzados desde el lado oeste y T4nuevamente desde el este.
 
-![](../../../../images/img-7b9e6030-d562-4899-817f-37b482814718.png)
+![](../../../../images/img-74d274ff-a04b-469c-9a76-63304ef13f7b.png)
 
 **Figura 3-31: Esforzado de extremos alternados.**
 
@@ -1762,7 +1762,7 @@ Cuando los tendones son muy largos, las pérdidas sobre la longitud del tendón 
 
 fricción y el tambaleo se vuelven mayores. El esforzado del tendón desde el segundo extremo resulta en una fuerza elevada en el tendón que si sólo se esforzara desde un extremo. También, para tendones simétricos el esforzado dos extremos se convierten en efectivos cuando el efecto del wedge-set en el extremo “gateado” afecta menos de la mitad del tendón (Figura 3-32). El esforzado desde el segundo extremo no deberá hacerse si la elongación calculada es menor que la longitud del enganche de la cuña. Reenganche en una porción de la longitud de enganche vieja deberá evitarse.
 
-![](../../../../images/img-37e64cbe-1651-482c-a0d7-ee16075e5ddf.png)
+![](../../../../images/img-a075ebe4-a529-423e-98cc-4332a6ee1eef.png)
 
 **Figura 3-32: Esfuerzos a lo largo del tendón para diferentes modos de esforzado.**
 
@@ -1882,7 +1882,7 @@ Una asignación por cada efecto es hecha por el Diseñador o el Ingeniero del Co
 
 fuerza requerida de gateo y la elongación correspondiente al tendón es dado en los planos, planos de ejecución o manual de esforzado.
 
-![](../../../../images/img-55c02152-bb78-4f7e-9932-5d15a962d7e9.png)
+![](../../../../images/img-2880a1f6-a6bd-449b-9200-9b0ab2021a5e.png)
 
 **Figura 3-33: Anchor-set o wedge-set.**
 
@@ -2089,23 +2089,23 @@ Problemas de deslizamiento repetitivos y grietas largas en la nariz de enganche 
 
 causa para problemas y deberán remediarse.
 
-![](../../../../images/img-ddc467b3-ddfd-4282-b01a-bf5550997069.png)
+![](../../../../images/img-3912504a-f295-4062-beb6-16b9fa373f5b.png)
 
 **Tabla 3-1: Ejemplo 1, elongación del tendón perfilado en viga principal de cuatro tramos (Figura 3-2).**
 
-![](../../../../images/img-85157837-900f-406a-868b-2c57ea5bf69a.png)
+![](../../../../images/img-241565fe-cac4-4b6b-8e73-676f706c6072.png)
 
 **Tabla 3-2: Ejemplo 1, elongación del tendón perfilado en viga principal de cuatro tramos (Figura 3-3).**
 
-![](../../../../images/img-3c4568e0-4d0a-4346-b9ec-4a1776efec7d.png)
+![](../../../../images/img-eb42606d-1af6-4e8c-9c74-5cac6687a3d8.png)
 
 **Tabla 3-3: Ejemplo 2, elongación del tendón esviado externo en un tramo exterior (Figura 3-4).**
 
-![](../../../../images/img-5b9d22e9-0a6b-48e8-8a37-db1886a26a1a.png)
+![](../../../../images/img-7cacf24b-de24-4d9a-8acd-8644886dfe5d.png)
 
 **Tabla 3-4: Ejemplo 1, tendón perfilado en viga principal de cuatro tramos (Figuras 3-2 y 3-3).**
 
-![](../../../../images/img-b669477e-7eea-49ec-91ee-a2bd3c021768.png)
+![](../../../../images/img-93ea2aee-b6b2-4aff-818a-d008056e86a7.png)
 
 **Tabla 3-5: Ejemplo 1, tendón perfilado en viga principal de cuatro tramos (Figuras 3-2 y 3-3).**
 
@@ -2247,7 +2247,7 @@ Para los grout tixotrópicos, dos idénticos tanques de mezclado/almacenamiento 
 
 para que alternen entre el mezclado (blending) y el almacenamiento, de modo que una nueva mezcla puede iniciarse mientras que el almacenado es bombeado. Un mixer de velocidad alta (coloidal) es necesario para cada tanque. Para los grouts tixotrópicos, el filtro entre el tanque y la bomba debe tener aberturas de 5 mm (3/16 plg). La bomba de grout deberá tener un control preciso de presión y ser alimentado desde cada tanque de almacenamiento (holding hopper) a su vez.
 
-![](../../../../images/img-28934e5a-a982-4909-839e-a9b072813d4b.png)
+![](../../../../images/img-50a86e3b-d6a2-482a-84c1-9ed38c1fc8e0.png)
 
 **Figura 4-1: Equipo de mezclado y bombeo de grout.**
 
@@ -2313,7 +2313,7 @@ Una compresora de aire es necesaria para suministrar aire comprimido libre de ac
 
 revisar los ductos para integridad y fugas o ayudar a soplar cualquier agua. La longitud de las mangueras de aire deberá ser suficiente para insertar y llegar a lo largo de los ductos para soplar escombros o agua hacia fuera cuando sea necesario.
 
-![](../../../../images/img-f5e15670-7e6e-43fa-84d8-4c306bba8962.png)
+![](../../../../images/img-c65814df-490b-47a0-b919-f1423603b59e.png)
 
 **Figura 4-2: Equipo de grouting al vacío.**
 
@@ -2751,7 +2751,7 @@ circunstancias concebibles y deberá considerarse sólo para información y guí
 *   Mostrar la dirección del grouting.
 *   Secuencia de cerrado de los vents: A, C, F, E, D G, B.
 
-![](../../../../images/img-d45c9fea-a58d-474f-b222-ec48cc2261a7.jpg)
+![](../../../../images/img-f57e7850-66d7-4fda-8ee1-d178a7b4a3c7.jpg)
 
 **Figura 4-3: Detalles del grouting para un sistema de ducto de una viga principal empalmada de 2-tramos.**
 
@@ -2766,7 +2766,7 @@ circunstancias concebibles y deberá considerarse sólo para información y guí
 *   Mostrar la dirección del grouting.
 *   Secuencia de cerrado de los vents: A, C, F, E, D, G, J, I, H, K, N, M, L, O, B.
 
-![](../../../../images/img-e94bb8f8-a429-40fd-9d72-bcb98d8dc626.jpg)
+![](../../../../images/img-3f6ad3ea-4781-422d-8913-2c97a805a76f.jpg)
 
 **Figura 4-4: Detalles del grouting para un sistema de ducto de una viga principal empalmada de 4-tramos.**
 
@@ -2798,11 +2798,11 @@ cajones, losas sólidas y losas con aberturas.
 *   Mostrar la dirección del grouting.
 *   Secuencia de cerrado de los vents: A, E, D, C, H, G, F, I, B.
 
-![](../../../../images/img-989bed0f-58e6-44da-8c29-63d695aab114.jpg)
+![](../../../../images/img-df8268c1-f8d1-413a-9d92-5c3914edd0dc.jpg)
 
 **Figura 4-5: Detalles del grouting para un sistema de ducto de una viga principal empalmada de 3-tramos en caída.**
 
-![](../../../../images/img-36ab8007-3ff3-49f2-af8e-c184fad369a0.jpg)
+![](../../../../images/img-8145e8fe-cfdc-4be5-9129-ec6365a10328.jpg)
 
 **Figura 4-6: Detalles del grouting para un sistema de ducto de un cajón celular, losa con aberturas o sólida.**
 
@@ -2820,7 +2820,7 @@ ascenso, el siguiente procedimiento sería. También se aplicaría a un similar 
 *   Mostrar la dirección del grouting.
 *   Secuencia de cerrado de los vents: B, D, C, A.
 
-![](../../../../images/img-989d7400-477f-423c-8ac1-e08da422786e.jpg)
+![](../../../../images/img-2f944bc9-ee41-4dba-bbe0-051b81267799.jpg)
 
 **Figura 4-7: Grouting de los tendones en voladizo (en continuidad superior).**
 
@@ -2839,7 +2839,7 @@ variable. Lo siguiente también se aplicaría a una estructura de peralte consta
 *   Mostrar la dirección del grouting.
 *   Secuencia de cerrado de los vents: A, C, D, E, B.
 
-![](../../../../images/img-71de662c-b200-4caa-a5a3-9a7834084845.jpg)
+![](../../../../images/img-ea573ece-9c4c-471c-82e3-3adf140441cd.jpg)
 
 **Figura 4-8: Grouting de los tendones de continuidad inferior en vigas principales tipo cajón de peralte variable.**
 
@@ -2858,7 +2858,7 @@ tramo-por-tramo.
 *   Mostrar la dirección del grouting.
 *   Secuencia de cerrado de los vents: A, C, E, D, B.
 
-![](../../../../images/img-f201f1dc-adb8-48b7-b3dd-14e03c8230bd.jpg)
+![](../../../../images/img-2753b131-832d-402f-a4f0-39193c4813b3.jpg)
 
 **Figura 4-9: Detalles de grouting para el tendón exterior del tramo exterior.**
 
@@ -2866,7 +2866,7 @@ Dependiendo de los detalles en los segmento pilares, el tendón puede salir hori
 
 curvarse cabeza abajo en el anclaje como se muestra en la Figura 4-10\. Esto requiere dos diferentes arreglos para los vents de outlet de grout.
 
-![](../../../../images/img-d1644979-5cd7-4337-b712-627bb73b31cd.png)
+![](../../../../images/img-3e88487e-9e37-47d1-9930-fd179dfdcce5.png)
 
 **Figura 4-10: Ubicación de los vents de outlet en segmento pilar en puentes tramo-por-tramo.**
 
@@ -2878,7 +2878,7 @@ espacio libre pequeño. Cuando es necesario proporcionar un dren así como un in
 
 Un posible concepto es ilustrado en la Figura 4-11\.
 
-![](../../../../images/img-9692dfdf-33f0-469f-8763-c768a13db288.png)
+![](../../../../images/img-9e9c828c-5513-4d57-9422-f44148fceb7a.png)
 
 **Figura 4-11: Posibles conexiones de grout para tendones externos inferiores.**
 
@@ -2891,7 +2891,7 @@ Un posible concepto es ilustrado en la Figura 4-11\.
 *   Respirar el grout en el outlet del punto elevado.
 *   Cerrar el outlet del punto elevado, luego cerrar el inlet.
 
-![](../../../../images/img-9b42ad65-ffdc-4797-b7b0-104b49089e09.jpg)
+![](../../../../images/img-cb6889c4-412d-4505-a803-6e4ccb98293d.jpg)
 
 **Figura 4-12: Detalles de grouting para tendones laterales en cabezal de pilar cabeza de martillo.**
 
@@ -2903,13 +2903,13 @@ outlets de grout intermedios son necesarios en intervalos de no más de 6 m (20 
 
 Esto es para facilitar el llenado apropiado y, si es necesario, el llenado por etapas en intervalos.
 
-![](../../../../images/img-c43a91c3-b97e-41f7-9255-81448d9335b3.png)
+![](../../../../images/img-a0d3a40a-1845-441a-b86c-bfce537463b2.png)
 
 **Figura 4-13: Detalles de grouting y anclaje para tendones verticales en pilares.**
 
 ##### 4.5.11\. Ejemplo 11: Pilar-C en Voladizo (Figura 4-14)
 
-![](../../../../images/img-d742f267-a401-4ad3-aecd-5a0f4135ee75.png)
+![](../../../../images/img-665d81a7-46a1-48bf-b7ca-1494bd13be82.png)
 
 **Figura 4-14: Detalles de grouting y protección del anclaje para tendones verticales y laterales en pilar-C.**
 
@@ -2953,7 +2953,7 @@ La Figura 7-1 muestra una disposición típica para los tendones en voladizo que
 
 cara exterior de un segmento prefabricado o vaceado-en-sitio. Esta característica detalles especiales para facilitar la inspección de las cabezas de anclaje luego que el grouting del tendón y luego que los segmentos adicionales hayan sido erigidos en el voladizo. (Un detalle posible para un anclaje de cara para facilitar esta inspección es mostrado en el Apéndice D, Figura 8-13).
 
-![](../../../../images/img-c35a89e2-7a61-4565-ab5a-a6408124e9aa.png)
+![](../../../../images/img-fc7c6de2-c31b-4d92-848c-0b9f07fbff19.png)
 
 **Figura 7-1: Tendones post-tensionados en voladizo anclados a las caras exteriores.**
 
@@ -2961,7 +2961,7 @@ Un enfoque alternativo es anclar los tendones en voladizo en blisters (bloques d
 
 vaceados en los segmentos en la intersección de la losa superior y el ama (Figura 7-2 y Capítulo 1, Figura 112). Los anclajes de estos tendones pueden ser inspeccionados en cualquier momento durante y después de la construcción.
 
-![](../../../../images/img-ec2a45c4-ab4d-4a82-ab55-7221e1243e46.png)
+![](../../../../images/img-d067b253-ccd1-4d6f-9288-4503ca3e5b81.png)
 
 **Figura 7-2: Tendones post-tensionados en voladizo anclados en blisters en la parte superior.**
 
@@ -2975,7 +2975,7 @@ Cuando un cierre es de varios pies de largo y pesa más de la mitad de un segmen
 
 ser necesario colocar el cierre de concreto en una secuencia muy específica con la finalidad de prevenir la apertura o agrietamiento del cierre cuando los voladizos deflecten. Puede también ser necesario aplicar una pequeña cantidad de post-tensionado (10% al 20% de dos tendones de continuidad) tan pronto como el concreto de la losa inferior haya tomado un endurecido inicial (esto es, alrededor de 2 a 4 horas del vaceado) para mantener apretado el cierre, incluso cuando se añada más concreto. Éstas son las consideraciones específicas del proyecto.
 
-![](../../../../images/img-ae7843a5-a93a-49e4-8f84-dac5269852e0.png)
+![](../../../../images/img-a62f7684-6918-454d-a416-3a2be2354cc7.png)
 
 **Figura 7-3: Tendones de continuidad inferior para la construcción por voladizos balanceados.**
 
@@ -2989,11 +2989,11 @@ Varios segmentos construidos sobre falso puente son típicamente necesarios para
 
 tramo extremo de un puente en voladizos balanceados que terminan en una junta de expansión en los estribos o pilares de expansión (Figura 7-5). Una junta de cierre vaceado-en-sitio conecta el voladizo a los segmentos sobre el falso puente y los tendones post-tensionados de continuidad son instalados. Usualmente, más tendones de continuidad son necesarios en la parte inferior que en la superior. Aunque los tendones de continuidad pueden no siempre ser necesarios en la parte superior, es buena proporcionar al menos dos, uno en cada alma extrema. Los tendones de continuidad pueden esforzarse desde la junta de expansión si está disponible el acceso o pueden esforzarse desde el blíster de anclaje dentro de la superestructura.
 
-![](../../../../images/img-a709859a-14eb-4c21-a30c-f0307e993119.png)
+![](../../../../images/img-070f6044-914a-4078-8828-564a74e669f5.png)
 
 **Figura 7-4: Tendones de continuidad superior para la construcción por voladizos balanceados.**
 
-![](../../../../images/img-b2134162-1316-4d63-9d5b-1004ac4b5cf2.png)
+![](../../../../images/img-b99090ec-fc73-4913-83dd-cc438fc45fe6.png)
 
 **Figura 7-5: Tendones de continuidad inferior cerca de la junta de expansión en un soporte.**
 
@@ -3007,7 +3007,7 @@ Las mejoras subsecuentes en modelos de predicción del flujo plástico a largo p
 
 concreto, han reducido las incertidumbres en el cálculo de la deflexión. Las rótulas a mitad del tramo han sido nuevamente usadas de forma satisfactoria. La deflexión puede controlarse usando vigas de acero sobre asientos de apoyo deslizantes ubicados al interior de una viga principal tipo cajón, entre las puntas de los voladizos, para permitir la expansión y contracción, pero restringiendo la rotación. Se debe tener cuidado en el diseño y detalle de cualquier tipo de rótula en el tramo, ya que los detalles locales pueden estar sometidos y fuerza y distribución de esfuerzo complejos.
 
-![](../../../../images/img-04be9ddd-9b1e-4711-bd21-2629fd3aa917.png)
+![](../../../../images/img-55057410-2160-4ee2-a5c9-624d26316762.png)
 
 **Figura 7-6: Rótulas en el tramo en la construcción por voladizos balanceados.**
 
@@ -3017,7 +3017,7 @@ Para la construcción tramo-por-tramo, el uso de tendones exteriores proporciona
 
 eficiencia en la sección transversal del cajón, tanto eficiencia longitudinal como transversal, facilitando un alma más gruesa en la parte superior que en la inferior. Esto eleva el centroide de la sección transversal entera, y maximiza la excentricidad y eficiencia del post-tensionado en a mitad del tramo, región necesaria para el efecto dominante de la flexión longitudinal de este método. La Figura 1-15 muestra una disposición típica de tendones tramo-por-tramo para un tramo interior donde todos los tendones se desvían en un sillín de desviación común. La Figura 7-7 muestra una disposición similar para un tramo típico junta de expansión. Los diseños actuales requieren un tendón adicional (recto) por alma para controlar los efectos de la gradiente termal y/o proporcionar redundancia adicional.
 
-![](../../../../images/img-55ae9155-8cc1-4625-988a-aa9a40f2466b.png)
+![](../../../../images/img-eb521a96-9941-4500-96d2-8d6dccea71a0.png)
 
 **Figura 7-7: Post-tensionado del tramo junta de expansión para la construcción tramo-por-tramo.**
 
@@ -3035,13 +3035,13 @@ Cuando al acceso al sitio del puente es restringido de modo que los componentes 
 
 puedan sólo enviarse a uno de los estribos extremos, la superestructura puede erigirse en voladizos progresivos. Se inicia colocando el primer tramo de los segmentos obre el falso puente entre el estribo y el primer pilar, los segmentos siguientes son enviado a lo largo de la porción completada y se añaden al voladizo, progresivamente al avance del extremo. Cuando el voladizo alcanza la mitad del tramo, un soporte temporal es introducido. Más segmentos son añadidos en el voladizo sobre el soporte temporal hasta que el avance del extremo alcance al siguiente pilar permanente. Este proceso se repite hasta que la superestructura complete todo el camino hasta el último estribo.
 
-![](../../../../images/img-217b7a42-e08e-4b98-8a00-6be9a51bb419.png)
+![](../../../../images/img-6d48e6d8-f4c0-4ae3-8b26-58172a6b0d44.png)
 
 **Figura 7-8: Tendones externos/internos.**
 
 Esta técnica fue usada para el Linn Cove Viaduct que lleva al Blue Ridge Parkway alrededor del Grandfather Mountain en North Carolina (Figura 7-9). Las restricciones del entorno permiten sólo el uso de pasarelas y equipo ligero sobre el terreno por debajo del viaducto. En consecuencia, el equipo y los materiales para la construcción fueron descargados en cada ubicación de los pilares desde el extremo de avance del voladizo. Luego de completar la zapata, los segmentos del pilar de concreto prefabricado excavado fueron transportados a lo largo de la porción completada del puente y luego bajados en su posición, construyendo el pilar para recibir y soportar el siguiente voladizo.
 
-![](../../../../images/img-4384eb79-c44c-402f-ac89-33370bf870ee.jpg)
+![](../../../../images/img-6d3478d5-e5f7-4e8c-b1fd-7d79a1783f6b.jpg)
 
 **Figura 7-9: Construcción del Linn Cove Viaduct.**
 
@@ -3065,7 +3065,7 @@ Las losas superiores de segmentos prefabricados y vaceados-en-sitio, y cajones s
 
 vaceados-en-sitio sobre falso puentes son a menudo post-tensionados transversalmente. El posttensionado transversal típicamente comprende los tendones multi-torón internos “engrutados” luego del esforzado. Los tendones están espaciados en intervalos frecuentes y regulares, aproximadamente de 0.5 a 1.0 m (2 a 3 pies, a lo largo de la estructura. Los tendones se anclan en los en los bloqueadores en los bordes de las del voladizo de la losa superior. Los bloqueadores son subsecuentemente llenados con concreto y son cubiertos generalmente con una barrera de tráfico. La Figura 7-10 muestra una vista en perspectiva de los tendones típicos post-tensionados transversales en una viga principal tipo cajón. En los segmentos prefabricados, los tendones transversales de la losa superior están generalmente tensionados y “engrutados” mientras el segmento está en el almacenamiento de la planta de fundición.
 
-![](../../../../images/img-dc777a86-18b0-4229-b247-7cc3297e6bda.jpg)
+![](../../../../images/img-31d2092c-7bbd-4429-bd22-de84e93ccd62.jpg)
 
 **Figura 7-10: Post-tensionado transversal en la losa superior de una viga principal tipo cajón.**
 
@@ -3093,7 +3093,7 @@ Atención apropiada deberá darse a los detalles con la finalidad de asegurar qu
 
 efectivos en las secciones críticas. Por ejemplo, en la Figura 7-11, los anclajes son rebajados en la cara del alma y los tendones no contribuyen a la resistencia de la interface de corte entre el alma y el diafragma. Ellos sólo contribuyen a la capacidad de la fuerza de tensión transversal necesaria a través de aquella parte del diafragma mayormente hacia el interior de los apoyos.
 
-![](../../../../images/img-9924d0f0-05f8-45d1-896d-71edd49fe6d5.jpg)
+![](../../../../images/img-a88604ec-0e48-43ae-b68f-6ef11396faa3.jpg)
 
 **Figura 7-11: Post-tensionado transversal en diafragmas.**
 
@@ -3103,7 +3103,7 @@ Las barras de post-tensionado vertical (Figura 7-12) son proporcionadas a menudo
 
 las zonas de anclaje y los efectos locales de corte inducidos por las fuerzas concentradas en los anclajes de los tendones post-tensionados anclados en grupos en los diafragmas de los segmentos. Estas barras verticales son internas y son esforzadas y “engrutadas” en la planta de fundición.
 
-![](../../../../images/img-9a452fa6-64a6-4fd0-993f-e9d3bdaa3b38.jpg)
+![](../../../../images/img-4bff17d6-9792-4e32-87bd-b457bede403e.jpg)
 
 **Figura 7-12: Post-tensionado vertical en diafragmas.**
 
@@ -3113,7 +3113,7 @@ Los nervios o nervaduras desviadoras transversales de los puentes tramo-por-tram
 
 contener tendones (generalmente barras rectas) en la parte superior de los nervios a través de la losa inferior anclada en la cara del alma (Figura 7-13). Éstos son internos y son esforzados y “engrutados” en la planta de fundición.
 
-![](../../../../images/img-723cf022-6ec0-420a-beb2-92eeb570c3a2.jpg)
+![](../../../../images/img-770b82b5-badb-4f7f-a0fb-648199926227.jpg)
 
 **Figura 7-13: Post-tensionado transversal en nervios desviadores.**
 
@@ -3123,7 +3123,7 @@ Las barras de post-tensionado vertical son ocasionalmente añadidas a las almas 
 
 usualmente en las zonas de corte elevado cerca de los pilares, para controlar los esfuerzos principales de tensión y mitigar o evitar el agrietamiento asociado. Debe darse cuidado a los detalles de las esquinas para asegurar una conexión apropiada y transferencia de fuerzas con el refuerzo de la losa superior e inferior.
 
-![](../../../../images/img-6b4ad445-94f5-4055-aec7-9b3c5dcfdf29.jpg)
+![](../../../../images/img-4d47a04a-4867-48ea-99c7-1aebee0daf0e.jpg)
 
 **Figura 7-14: Post-tensionado vertical en almas.**
 
@@ -3182,7 +3182,7 @@ Los seis posibles niveles de protección mostrados en la Figura 8-1 son como sig
 *   Nivel 5 – Revestimiento (Level 5 – Sheathing/Coating): Existe una oportunidad de proporcionar protección por corrosión entre el grout y los torones. Tanto los mono-torones engrasados y enfundados y los torones con recubrimiento epóxico están disponibles. No hay una gran experiencia en la colocación de estos tipos de torones enfundados o recubiertos ya sea individualmente o en paquetes de muchos tendones en la construcción de puentes y hay problema ya que la funda o recubrimiento puede no necesariamente mantenerse intacto durante la instalación. Los estimados actuales indican que el costo del material por el torón recubierto con epóxico es 3.5 veces que el torón barra.
 *   Nivel 6 – Torón o Barra (Level 6 – Strand or Bar): La sexta oportunidad para la protección recae en el elemento principal a tensión mismo. El acero inoxidable está disponible para los torones o barras, aunque a un costo considerable. Las propiedades metálicas de los torones inoxidables son ligeramente inferiores a los torones normales por lo que una aplicación dada requeriría proporcionalmente más torones. Aun así, considerando la naturaleza de la aplicación, el esfuerzo y el costo pueden estar garantizados. Los torones con revestido inoxidable son producidos en Inglaterra pero aún no han sido ampliamente usados en los Estados Unidos. El costo del material para torones inoxidables sólidos es aproximadamente 10 veces, y el torón con revestido inoxidable 5 veces, el costo del torón descubierto. Los torones de fibra de carbono proporcionan otra opción para la protección por corrosión al nivel del elemento principal a tensión, pero los asuntos del relativamente bajo módulo de elasticidad y, si es necesario, posible protección al fuego pueden necesitar abordarse. Ha habido pequeño uso de cualquiera de estos materiales a la fecha.
 
-![](../../../../images/img-8a11502e-007c-4f1a-8649-cb10dd0250a3.jpg)
+![](../../../../images/img-574d4c32-1dde-49f8-99ca-8ef0be83daff.jpg)
 
 **Figura 8-1: Niveles de protección para la protección por corrosión.**
 
@@ -3253,7 +3253,7 @@ selladores de superficie, tres niveles de protección por corrosión son proporc
 
 Los tendones internos son protegidos por: el grout, el ducto y el recubrimiento de concreto (Figura 8-2).
 
-![](../../../../images/img-c44493d3-b529-4f23-8abf-e0c741be0641.png)
+![](../../../../images/img-e0fcd5ad-9c80-4936-98d4-81790016f4b7.png)
 
 **Figura 8-2: Niveles de protección para los tendones internos.**
 
@@ -3267,7 +3267,7 @@ Los tendones externos son protegidos por el grout, el ducto y la estructura circ
 
 deberá ser “impermeable” (watertight) y bien drenada (Figura 8-3). En este contexto “impermeable” se refiere a implementar medidas para estar seguros que las juntas de empalme vaceadas-en-sitio y las juntas entre los segmentos emparejados-vaceados estén correctamente selladas y las fugas resultantes a través de las juntas de expansión estén controladas y no entren en un cajón hueco interior. Los drenajes deben proporcionarse a través de las losas inferiores para drenar cualquier agua que ingrese en el cajón, ya sea de la escorrentía, servicios rotos o sistemas de drenaje en su interior.
 
-![](../../../../images/img-fb3f2173-f3fc-44f1-8f26-cb4a919558f0.png)
+![](../../../../images/img-91061ec5-bc77-426b-8aed-46d8855dfd4b.png)
 
 **Figura 8-3: Niveles de protección para los tendones externos.**
 
@@ -3291,11 +3291,11 @@ En algunos casos, una pérdida de la adecuada protección en los anclajes llevan
 
 y contaminantes resultando en la corrosión del post-tensionado. Por ejemplo, la contracción y separación del relleno de concreto de los bloqueadores de anclaje en la losa superior de algunos puentes segmentales crearon rutas hacia los anclajes para los tendones superiores internos. Las grietas similares de separación por contracción ocurrieron en los pockets de las losas de los tableros dejando abierto acceder a los tendones superiores en la construcción de vigas principales-I de concreto. La separación de concreto coladoposterior en los anclajes bajo las juntas de expansión, junto a con el grouting incompleto, permitieron al flujo de agua recargar los agujeros de grout e iniciar la corrosión en algunos pocos tendones.
 
-![](../../../../images/img-135ba8c2-ed2d-4b99-8de2-fb29d6e5447b.png)
+![](../../../../images/img-fae1ceb5-5185-49c3-9a63-44590b3ed496.png)
 
 **Figura 8-4: Sellado de inlets y outlets a lo largo de los tendones internos.**
 
-![](../../../../images/img-b2981e47-36b6-4ffb-9c68-eb80965fa531.png)
+![](../../../../images/img-9a2fcfdf-231f-4f41-8077-b6099ff57730.png)
 
 **Figura 8-5: Sellado de los inlets y outlets a lo largo del tendón externo.**
 
@@ -3349,15 +3349,15 @@ cuando sea necesario, que:
 *   Las estructura tipo cajón son diseñadas, detalladas y construidas apropiadamente para que sean ventiladas, impermeables y bien drenadas.
 *   Todas las superficies de acabado de los colado-posteriores y el concreto estructural adyacente son correctamente preparadas para recibir el subsecuente revestido-sellador.
 
-![](../../../../images/img-5141ec29-3f3b-430b-a009-3bafb8c4659d.png)
+![](../../../../images/img-4ff835f0-dc49-4a24-9624-25d1f49648bf.png)
 
 **Figura 8-6: Detalles de protección del anclaje en los anclajes extremos.**
 
-![](../../../../images/img-3bd92036-1ac1-43eb-89cb-749f5de0d25f.png)
+![](../../../../images/img-60cad8d0-3269-4fbe-b087-b8afdbd65c2b.png)
 
 **Figura 8-7: Detalles de protección en los anclajes superiores.**
 
-![](../../../../images/img-001f6733-2aa7-46c1-99b5-7e8ae3d5e541.png)
+![](../../../../images/img-e1304819-3dd4-44b5-bc64-9c701cf1d7d0.png)
 
 **Figura 8-8: Protección del anclaje en pilares interiores.**
 
@@ -3371,19 +3371,19 @@ cuando sea necesario, que:
 *   Debe haber al menos 3 ½ pulgadas de recubrimiento de concreto estructural (emparejado-vaceado) sobre cualquier pocket para la superficie de rodadura de la losa superior, para la integridad del concreto y aplicación del epóxico.
 *   Las superficies de concreto de un rebajo del pocket del anclaje deberán ser limpiadas correctamente y preparadas antes de colocar el material del colado-posterior.
 
-![](../../../../images/img-4d253453-8df1-4c42-97e1-44d15a94ce51.png)
+![](../../../../images/img-b5489c89-3014-47bb-bb63-cc1ed557e0bb.png)
 
 **Figura 8-9: Protección del anclaje para tendones en voladizo anclados en blisters.**
 
-![](../../../../images/img-9c465892-9ce4-47ed-a3d6-a342b59f2588.png)
+![](../../../../images/img-1445f8dd-89f3-4da4-bc69-fb736e14ef20.png)
 
 **Figura 8-10: Protección de anclajes individuales en juntas de expansión.**
 
-![](../../../../images/img-76751383-8d27-4028-8a5c-75b3b12bd68e.png)
+![](../../../../images/img-c6b53370-ac54-4967-9f8c-e534dfa5cd7b.png)
 
 **Figura 8-11: Protección de un grupo de anclajes en un segmento junta de expansión.**
 
-![](../../../../images/img-1c88132e-249d-4a9c-8329-309e5a315c0d.png)
+![](../../../../images/img-ff629ff8-78f4-4b49-911e-84c7c35d94a0.png)
 
 **Figura 8-12: Protección del anclaje en juntas de expansión.**
 
@@ -3404,7 +3404,7 @@ Un método posible para el grouting y sellado de la cara embebida de los anclaje
 10.  Luego de la erección del siguiente segmento y después que sus tendones hayan sido “engrutados”, el pocket del anclaje (bloqueador) es llenado hasta la parte superior del puerto de acceso sobredimensionado usando un material aprobado tal como un grout epóxico de alta resistencia, de alta adherencia, de baja contracción, lleno de arena o un grout pre-embolsado.
 11.  El rebajo del tablero del tubo de grout es sellado con un grout epóxico lleno de arena.
 
-![](../../../../images/img-381c9027-b8ab-4887-a4e4-81d7215f34bc.png)
+![](../../../../images/img-d466eef6-4cea-4120-9313-38ca6517ae03.png)
 
 **Figura 8-13: Posible detalle para la cara embebida del anclaje.**
 
